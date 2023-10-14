@@ -28,7 +28,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.github.lucasgois.hashspeedtester.HashResult</mainClass>
+                            <mainClass>com.github.lucasgois.hashspeedtester.HashSpeedTester</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
